@@ -1,9 +1,7 @@
-# Responsive Portfolio Website Jhon Doe
+# Michelle Cheung's Personal Website
+Hello, this is my personal website. It is still a work in progress. 
 
-## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
-
-###  Responsive Portfolio Website
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.
-
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+###  Credits
+- Website Starter Code: [Bedimcode](https://github.com/bedimcode/responsive-portfolio-website-JhonDoe)
+- Computer Icon: [icons8](https://icons8.com/illustrations/coding)
+- Dashboard Avatar: [avataaars generator](https://getavataaars.com/)
